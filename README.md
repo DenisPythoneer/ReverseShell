@@ -96,4 +96,4 @@ builder.py
 
 #
 
-### 🔗 Ссылка на автора: https://t.me/denispythoneer
+### 🔗 Ссылка на автора: https://github.com/DenisPythoneer
